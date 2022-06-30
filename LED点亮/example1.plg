@@ -1,0 +1,79 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\大学资料\单片机\单片机\project\example1.uvproj
+Project File Date:  01/17/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA3 skipped
+MAIN.C(14): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA3 skipped
+MAIN.C(14): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA3 skipped
+MAIN.C(14): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA1 skipped
+MAIN.C(14): error C100: unprintable character 0xA2 skipped
+MAIN.C(14): error C100: unprintable character 0xA3 skipped
+MAIN.C(14): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(15): error C100: unprintable character 0xA1 skipped
+MAIN.C(15): error C100: unprintable character 0xA2 skipped
+MAIN.C(15): error C100: unprintable character 0xA1 skipped
+MAIN.C(15): error C100: unprintable character 0xA2 skipped
+MAIN.C(15): error C100: unprintable character 0xA3 skipped
+MAIN.C(15): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(15): error C100: unprintable character 0xA1 skipped
+MAIN.C(15): error C100: unprintable character 0xA2 skipped
+MAIN.C(15): error C100: unprintable character 0xA1 skipped
+MAIN.C(15): error C100: unprintable character 0xA2 skipped
+MAIN.C(15): error C100: unprintable character 0xA3 skipped
+MAIN.C(15): error C100: unprintable character 0xBB skipped
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?MAIN
+Program Size: data=9.0 xdata=0 code=46
+creating hex file from "example1"...
+"example1" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?MAIN
+Program Size: data=9.0 xdata=0 code=46
+creating hex file from "example1"...
+"example1" - 0 Error(s), 1 Warning(s).
